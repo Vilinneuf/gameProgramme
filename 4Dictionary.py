@@ -6,3 +6,4 @@ characterA = {"strength": 12,
               "wisdom": 9,
               "charisma": 13}
 
+print(characterA)
