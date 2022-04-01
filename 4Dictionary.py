@@ -7,3 +7,5 @@ characterA = {"strength": 12,
               "charisma": 13}
 
 print(characterA)
+for (key, value) in characterA.items():
+    print(key, ":", value)
