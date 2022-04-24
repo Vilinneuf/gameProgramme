@@ -2,7 +2,6 @@
 import random
 import pygame
 
-
 class Item:
     def __init__(self,filename,screenSize,speed):
         """Initiate the Item"""
